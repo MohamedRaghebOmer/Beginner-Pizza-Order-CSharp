@@ -1,0 +1,104 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+build/
+AppPackages/
+TestResults/
+artifacts/
+publish/
+PublishProfiles/
+
+# Visual Studio Code / settings
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+*.DotSettings.user
+_ReSharper*/
+*.ReSharper
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+.nuget/packages/
+
+# MSBuild / temporary
+*.tmp
+*.temp
+*.rsp
+*.cache
+*.log
+
+# User-specific / personal files
+*.user
+*.userprefs
+*.rsuser
+*.suo
+
+# Files produced by compilation / deployment
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.lib
+
+# Web / ASP.NET
+App_Data/
+PackageTmp/
+*.Publish.xml
+*.azurePubxml
+*.scmignore
+*.dbmdl
+
+# Database files
+*.mdf
+*.ldf
+*.sdf
+*.db
+
+# Test / coverage outputs
+*.coverage
+*.coveragexml
+*.trx
+TestResults/
+coverage/
+
+# IIS Express
+IISExpress/
+iisexpress/
+
+# Profiling / coverage tools
+*.ncrunch*
+*.ncrunchsolution
+*.dotCover
+*.vscoverage
+*.coverage
+
+# Azure / publish settings
+*.PublishSettings
+.publishsettings
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Others common
+*.class
+*~ 
+~$*
