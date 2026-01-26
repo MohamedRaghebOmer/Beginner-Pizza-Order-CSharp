@@ -6,7 +6,7 @@ first steps into C# development and desktop app programming.
 
 ## Features
 
--   Choose pizza size
+-   Choose pizza size 
 -   Select toppings
 -   Automatic price calculation
 -   Simple and clean UI
