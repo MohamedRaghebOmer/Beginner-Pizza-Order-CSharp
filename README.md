@@ -16,7 +16,7 @@ Welcome to my first **Windows Forms (GUI)** project! This application is a dynam
 
 ## 🧠 Technical Highlights (What I Learned)
 
-This project was built after completing **Course 14 (C# WinForms Basics)**. Key technical concepts implemented:
+This project was built after completing **(C# WinForms Basics)**. Key technical concepts implemented:
 - **Event-Driven Programming:** Handling `CheckedChanged` and `Click` events to trigger UI logic.
 - **Control Management:** Mastering `RadioButton` (for mutually exclusive choices) and `CheckBox` (for multiple selections).
 - **Form State Control:** Logic to enable/disable specific sections of the UI after an order is confirmed.
@@ -31,6 +31,8 @@ The application covers four main categories:
 2. **Crust Type:** Thin Crust, Thick Crust.
 3. **Toppings:** Extra Cheese, Mushrooms, Tomatoes, Onions, Olives, Green Peppers.
 4. **Where to Eat:** Eat In, Take Out.
+
+<img width="1281" height="854" alt="Screenshot 2026-02-20 080219" src="https://github.com/user-attachments/assets/63686133-468d-4406-963a-ff88fb34dad8" />
 
 ---
 
