@@ -4,7 +4,7 @@ Welcome to my first **Windows Forms (GUI)** project! This application is a dynam
 
 ---
 
-## 🌟 Key Features & Strengths
+## 🌟 Key Features & Strengths 
 
 - **⚡ Real-time Price Calculation:** No need to click a "Calculate" button. The total price updates instantly whenever you change a selection (Size, Crust, or Toppings).
 - **📝 Live Order Summary:** A dedicated section that tracks your choices (Size, Toppings, Crust Type) as you click, providing immediate visual feedback.
